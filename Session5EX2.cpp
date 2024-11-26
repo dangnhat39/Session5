@@ -17,7 +17,7 @@ int main() {
     } while (userInput != givenNumber);
 
   
-    printf("Chuc mung! Ban da nhap dung so %d.\n", givenNumber);
+
 
     return 0;
 }
